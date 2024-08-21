@@ -1,0 +1,9 @@
+data:
+  eval_database_files:  ['/home/demiao/bisheR/pickles/oxford/oxford_evaluation_database.pickle',
+                        '/home/demiao/bishe/pickles/oxford/business_evaluation_database.pickle', 
+                        '/home/demiao/bishe/pickles/oxford/residential_evaluation_database.pickle', 
+                        '/home/demiao/bishe/pickles/oxford/university_evaluation_database.pickle']
+  eval_query_files: ['/home/demiao/bishe/pickles/oxford/oxford_evaluation_query.pickle',
+                    '/home/demiao/bishe/pickles/oxford/business_evaluation_query.pickle', 
+                    '/home/demiao/bishe/pickles/oxford/residential_evaluation_query.pickle', 
+                    '/home/demiao/bishe/pickles/oxford/university_evaluation_query.pickle']
