@@ -34,7 +34,7 @@ After downloading datasets, please save folders `oxford`, `inhouse_datasets` dir
 
 To run any bash file, please making the change to `config/default.yaml`:
 
-1.  Replace with `datasets/` directory containing all three subfolders of datasets.
+1.  Replace with `datasets/` directory containing all subfolders of datasets.
 2.  Change path to your conda installation
 3.  Replace environment name with your conda environment
 4.  Replace root directory
